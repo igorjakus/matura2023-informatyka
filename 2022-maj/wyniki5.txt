@@ -1,0 +1,24 @@
+5.1
+magazyn	ilosc_zamowien
+Gniezno	152
+Malbork	183
+Ogrodzieniec	222
+Przemysl	198
+
+5.2
+8
+7.10.2021
+14.10.2021
+
+5.3
+w pliku zadanie5.xlsx
+
+5.4
+19.03.2021
+154
+37
+285230
+
+5.
+13179
+	

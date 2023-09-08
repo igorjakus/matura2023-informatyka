@@ -1,0 +1,32 @@
+5.1
+31.12.2023	
+przychód: 39600	
+koszta: 15950
+
+data kiedy poniesione koszty będą mniejsze od łącznych dochodów
+01.06.2023
+
+5.2
+-7430	sty
+600	lut
+1590	mar
+2250	kwi
+2850	maj
+3660	cze
+4920	lip
+5610	sie
+4320	wrz
+1890	paź
+2040	lis
+1350	gru
+
+5.3
+100 000zł -> cena = 47zł
+125 000zł -> cena = 57zł
+150 000zł -> cena = 66zł
+
+5.4
+przychody 249630	
+koszta 100655
+
+
