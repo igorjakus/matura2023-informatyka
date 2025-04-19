@@ -1,0 +1,20 @@
+Zadanie 3.1
+20 4489
+
+Zadanie 3.2
+2730
+8190
+2310
+4620
+7770
+8610
+4830
+4290
+6930
+6630
+
+Zadanie 3.3
+różnica mniejsza od liczby: 947
+różnica równa liczbie: 1
+różnica większa od liczby: 1052
+6174
